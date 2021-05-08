@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Boyd, Oliver S.</origin>
+        <pubdate>20180927</pubdate>
+        <title>3D Geologic Framework for use with the U.S. Geological Survey National Crustal Model, Phase 1: Western United States</title>
+        <geoform>Electronic</geoform>
+        <pubinfo>
+          <pubplace>Reston, VA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9SBQENM</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Boyd, O.S.</origin>
+            <pubdate>2019</pubdate>
+            <title>3D Geologic Framework for use with the U.S. Geological Survey National Crustal Model, Phase 1: Western United States</title>
+            <geoform>Electronic</geoform>
+            <pubinfo>
+              <pubplace>Denver, CO</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>A 3D geologic framework is presented here as part of the U.S. Geological Survey National Crustal Model for the western United States, which will be used to improve seismic hazard assessment. The framework is based on 1:250,000 to 1:1,000,000-scale state geologic maps and depths of multiple subsurface unit boundaries. The geology at or near the Earth’s surface is based on published maps with modifications to remove discontinuities across state borders. Extrapolation of rock type and age in the subsurface is achieved by iterative stripping of units of a given age, nearest neighbor interpolation of the remaining units, and constraints on basement geology. The subsurface depth of the interfaces between units is determined by a range of models with varying quantity and quality of constraints. Bedrock depth is derived primarily from a proxy model with added geophysical constraint in some areas. The depths to the base of Cenozoic and Phanerozoic sedimentary and extrusive volcanic rocks are constrained by geophysical methods in many areas. Elsewhere, a simple method is used to estimate their subsurface depth based on the distance to the edge of the geologic units. The remaining continental units are evenly distributed above, below, and between depending on age. The oceanic crust is treated as a simpler four-layer model with the added complexity of subduction beneath the North American plate along the Cascadia subduction zone.Refinements to this technique can be accomplished in future versions of the model with more specific information including the location of faults to produce discontinuities in geologic structure and additional information obtained from boreholes and geophysical studies. Further improvements to the geologic framework can be made by incorporating information from more local studies, for example, hydrogeologic studies.</abstract>
+      <purpose>The purpose of this dataset is to provide the 3D geologic (rock type and age) information to link petrologic and mineral physics information to rock densities and seismic velocities.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2019</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-130.0</westbc>
+        <eastbc>-100.0</eastbc>
+        <northbc>53.0</northbc>
+        <southbc>22.0</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>USGS</themekey>
+        <themekey>Geologic Hazards Science Center</themekey>
+        <themekey>GHSC</themekey>
+        <themekey>Earthquake Hazards Program</themekey>
+        <themekey>USGS National Crustal Model</themekey>
+        <themekey>NCM</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5cfeb4cce4b0156ea5645056</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Western United States</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Boyd, Oliver S.</cntper>
+          <cntorg>U.S. Geological Survey, Earthquake Hazards Program</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1711 Illinois Street</address>
+          <city>Golden</city>
+          <state>Colorado</state>
+          <postal>80401</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>303-273-8617</cntvoice>
+        <cntemail>olboyd@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <crossref>
+      <citeinfo>
+        <origin>Shah, A.K</origin>
+        <origin>Boyd, O. S.</origin>
+        <pubdate>2018</pubdate>
+        <title>Depth to basement and thickness of unconsolidated sediments for the western United States—Initial estimates for layers of the U.S. Geological Survey National Crustal Model</title>
+        <pubinfo>
+          <pubplace>Denver, CO</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.3133/ofr20181115</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Sowers, T.</origin>
+        <origin>Boyd, O.S.</origin>
+        <pubdate>2019</pubdate>
+        <title>Petrologic and Mineral Physics Database for use with the USGS National Crustal Model,</title>
+        <pubinfo>
+          <pubplace>Denver, CO</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.3133/20191035</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Discussed in publication.</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>Please refer to the associated article (DOI to be determined)</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Transverse Mercator</mapprojn>
+          <transmer>
+            <sfctrmer>0.9996</sfctrmer>
+            <longcm>-95.0</longcm>
+            <latprjo>24.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>1.0</absres>
+            <ordres>1.0</ordres>
+          </coordrep>
+          <plandu>METERS</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>NAD83</horizdn>
+        <ellips>WGS84</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>NCM_SpatialGrid.nc</enttypl>
+        <enttypd>Spatial grid for the National Crustal Model</enttypd>
+        <enttypds>doi:10.3133/ofr2019XXXX</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>x</attrlabl>
+        <attrdef>Easting National Crustal Model grid</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-2600000</rdommin>
+            <rdommax>2300000</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>y</attrlabl>
+        <attrdef>Northing National Crustal Model grid</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3200000</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude vector</attrlabl>
+        <attrdef>Latitude vector used to transform to grid index if Matlab mapping package is unavailable</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>22</rdommin>
+            <rdommax>53</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude vector</attrlabl>
+        <attrdef>Longitude vector used to transform to grid index if Matlab mapping package is unavailable</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-130</rdommin>
+            <rdommax>-64</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index j grid</attrlabl>
+        <attrdef>j Index grid for mapping lat/lon to NCM indexes j/k when Matlab mapping package is not present</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-229</rdommin>
+            <rdommax>3794</rdommax>
+            <attrunit>index</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Index k grid</attrlabl>
+        <attrdef>k Index grid for mapping lat/lon to NCM indexes j/k when Matlab mapping package is not present</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1151</rdommin>
+            <rdommax>5963</rdommax>
+            <attrunit>index</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>NCM_GeologicFrameworkGrids.nc</enttypl>
+        <enttypd>National Crustal Model surface grids</enttypd>
+        <enttypds>doi:10.3133/ofr2019XXXX</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Surface Elevation</attrlabl>
+        <attrdef>The elevation of the Earth's surface</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-5078</rdommin>
+            <rdommax>4196</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bedrock Elevation</attrlabl>
+        <attrdef>The elevation of bedrock</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-5078</rdommin>
+            <rdommax>4196</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bottom Cenozoic Elevation</attrlabl>
+        <attrdef>The elevation of the bottom of Cenozoic sedimentary and extrusive volcanic units</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-15404</rdommin>
+            <rdommax>4168</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bottom Phanerozoic Elevation</attrlabl>
+        <attrdef>The elevation of the bottom of Phanerozoic sedimentary and extrusive volcanic units</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-26653</rdommin>
+            <rdommax>4168</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mid Crustal Elevation</attrlabl>
+        <attrdef>The elevation of the mid crust below which is a lower crust composed of pyroxenite</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-30822</rdommin>
+            <rdommax>278</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Moho Elevation</attrlabl>
+        <attrdef>The elevation of the bottom of the crust below which is mantle peridotite</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-62576</rdommin>
+            <rdommax>278</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Top Ocean Plate Elevation</attrlabl>
+        <attrdef>The elevation of the top of the oceanic plates</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-439719</rdommin>
+            <rdommax>278</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>NCM_GeologicFrameworkVolume.nc</enttypl>
+        <enttypd>National Crustal Model geologic framework volume</enttypd>
+        <enttypds>doi:10.3133/ofr2019XXXX</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Rock Type Profile Index</attrlabl>
+        <attrdef>The rock type index of each layer within the geologic volume</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>211</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Age Profile Index</attrlabl>
+        <attrdef>The age index of each layer within the geologic volume</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2</rdommin>
+            <rdommax>160</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Layer Elevation</attrlabl>
+        <attrdef>The elevation of the bottom of each layer within the geologic volume</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-502170</rdommin>
+            <rdommax>4196</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Rock Type Name</attrlabl>
+        <attrdef>The rock type name associated with each rock type index. The index is equal to the row for this attribute.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Rock types corresponding to each index</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Age Name</attrlabl>
+        <attrdef>The age name associated with each age index. The index is equal to the row for this attribute.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Ages corresponding to each index</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Age Min</attrlabl>
+        <attrdef>Minimum age for each index</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>4000</rdommax>
+            <attrunit>millions of years</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Age Max</attrlabl>
+        <attrdef>Maximum age for each index</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0117</rdommin>
+            <rdommax>4600</rdommax>
+            <attrunit>millions of years</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Please refer to the associated article (DOI to be determined)</eaover>
+      <eadetcit>Please refer to the associated article (DOI to be determined)</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20200929</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>GHSC Data Steward</cntper>
+          <cntorg>U.S. Geological Survey, Geologic Hazards Science Center</cntorg>
+        </cntperp>
+        <cntpos>Open Data Policy coordinator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1711 Illinois Street</address>
+          <city>Golden</city>
+          <state>Colorado</state>
+          <postal>80401</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>303-273-8500</cntvoice>
+        <cntemail>ghsc_metadata@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

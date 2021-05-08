@@ -1,0 +1,17 @@
+variables:
+  GIT_DEPTH: 1
+
+image: andrejreznik/python-gdal:py3.7.3-gdal3.0.0
+
+before_script:
+  - apt-get update -qy
+  - apt-get install -y git
+  - pip install --upgrade pip
+  - pip install pytest~=4.5
+  - pip install geopandas~=0.6
+  - pip install tableschema==1.12.3 datapackage==1.9.2 goodtables==2.2.1
+  - pip install goodtables-pandas-py==0.1.2
+
+validate:
+  script:
+    - pytest
